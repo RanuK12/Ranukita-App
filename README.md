@@ -124,4 +124,4 @@ Este proyecto lo desarrolla Ranukita (el bot) durante las noches como tarea aut�
 
 ## Licencia
 
-Privado. Propiedad de Emilio Ranucoli / Ranuk IT Solutions.
+MIT — © 2026 Ranuk IT Solutions | ranuk.dev
